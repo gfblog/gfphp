@@ -6,7 +6,7 @@
 
 组成部分：SQL 接口，解析器，优化器，缓存，存储引擎
 
-![体系结构图](./assets/mysql-system-10.png)
+![体系结构图](https://gfblog.cn/images/github/gfphp/mysql-system-10.png)
 
 - Connectors：不同语言中与 SQL 的交互
 - Management Serveices & Utilities： 系统管理和控制工具
@@ -195,7 +195,7 @@ MySQL 默认采用自动提交(AUTOCOMMIT)模式，每个查询都当作一个�
 
 #### 索引分类
 
-![索引分类](./assets/index.png)
+![索引分类](https://gfblog.cn/images/github/gfphp/index.png)
 
 #### 索引创建
 

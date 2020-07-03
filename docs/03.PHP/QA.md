@@ -331,11 +331,11 @@ PHP 代码 => 启动 php 及 zend 引擎，加载注册拓展模块 => 对代码
 
 ### base64 编码原理
 
-![base64](./assets/php-base64.png)
+![base64](https://gfblog.cn/images/github/gfphp/php-base64.png)
 
 ### ip2long 实现
 
-![ip2long](./assets/php-ip2long.png)
+![ip2long](https://gfblog.cn/images/github/gfphp/php-ip2long.png)
 
 
 ```

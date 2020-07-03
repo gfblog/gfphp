@@ -28,7 +28,7 @@ alt 是`<img>`标签的特有属性，是图片内容的等价描述。图片无
 
 ### CSS 选择器的分类
 
-![CSS选择器](./assets/web-css-CSS选择器.png)
+![CSS选择器](https://gfblog.cn/images/github/gfphp/web-css-CSS选择器.png)
 
 拓展阅读[《CSS选择器的分类》](./02.CSS选择器的分类.md)
 
@@ -122,7 +122,7 @@ link 可以通过 rel="alternate stylesheet"指定候选样式
 
 ### 盒子模型
 
-![CSS框模型](./assets/web-css-CSS框模型.jpg)
+![CSS框模型](https://gfblog.cn/images/github/gfphp/web-css-CSS框模型.jpg)
 
 具备属性：内容(content)、填充(padding)、边框(border)、边界(margin)
 
@@ -215,7 +215,7 @@ Flex 布局，可以简便、完整、响应式地实现各种页面布局。目
 
 ### JavaScript 数据类型
 
-![JavaScript 数据类型](./assets/web-javascript-数据类型.png)
+![JavaScript 数据类型](https://gfblog.cn/images/github/gfphp/web-javascript-数据类型.png)
 
 拓展阅读 [《JavaScript 数据类型和数据结构》](./10.JavaScript数据类型和数据结构.md)
 

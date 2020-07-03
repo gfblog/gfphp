@@ -84,7 +84,7 @@ $sql = "SELECT * FROM `user` WHERE `id`={$id}";
 
 DDOS 又称为分布式拒绝服务，全称是 Distributed Denial of Service。DDOS 本是利用合理的请求造成资源过载，导致服务不可用
 
-![DDOS](./assets/ddos.png)
+![DDOS](https://gfblog.cn/images/github/gfphp/ddos.png)
 
 网络层 DDOS：伪造大量源 IP 地址，向服务器发送大量 SYN 包，因为源地址是伪造的，不会应答，大量消耗服务器资源(CPU 和内存)
 
