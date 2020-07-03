@@ -245,4 +245,4 @@
 
 个人博客：https://gfblog.cn
 
-微信小程序：![微信小程序扫码](./images/gfblogina.png)
+微信小程序：![微信小程序扫码](http://gfblog.cn/uploads/20200629/f99072df410a173e0ed04ada6b6f071a.png)
