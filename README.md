@@ -245,4 +245,4 @@
 
 个人博客：https://gfblog.cn
 
-微信小程序：(./images/gfblogina.png)
+微信小程序：![微信小程序扫码](./images/gfblogina.png)
